@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495908231311",
+    "firebase_url": "https://messanger-41c1f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "messanger-41c1f",
+    "storage_bucket": "messanger-41c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495908231311:android:c76d71be55cfdc72c438fa",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495908231311-ct3vnaa4k5glm1ncspqtfdon0frsupg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mychat",
+            "certificate_hash": "e875bb739f16fb216f696983bc790f6aa04f50c8"
+          }
+        },
+        {
+          "client_id": "495908231311-53vbbumvcllb1d2je9gibficrdhforpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YqMJ4MZAbi_cb4w4I9S7ydVywP_Gfm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495908231311-53vbbumvcllb1d2je9gibficrdhforpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
